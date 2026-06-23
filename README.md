@@ -14,6 +14,10 @@
   <a href="https://play.google.com/store/apps/details?id=net.perfectdreams.butterscotch&referrer=utm_source%3Dgithub%26utm_medium%3Dreferral%26utm_content%3Dgithub-readme"><img width="239" height="71" alt="GetItOnGooglePlay_Badge_Web_color_English" src="https://github.com/user-attachments/assets/c6be56cb-68ca-41d6-b479-3bf2a95f0ba6" /></a>
 </div>
 
+> [!IMPORTANT]
+> This repository, at the moment, is completely unusable. DO NOT try to use it. The entirety of it's changes are AI assisted or generated. The purpose of this fork is to help me understand how the project works initially until I can properly fix all the bullshit the AI will *definitely* introduce. This fork *might* get deleted in the future in favor of a more-quality version... without all the slop commits.
+
+
 > [!IMPORTANT]  
 > Butterscotch is still VERY early in development and it is NOT that good yet.
 
